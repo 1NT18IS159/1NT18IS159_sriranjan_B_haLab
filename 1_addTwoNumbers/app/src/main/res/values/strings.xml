@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_01</string>
+    <string name="result">RESULT</string>
+    <string name="num2">Num2</string>
+    <string name="num1">Num1</string>
+    <string name="add">Add</string>
+    <string name="Rrresult">Result</string>
+</resources>
