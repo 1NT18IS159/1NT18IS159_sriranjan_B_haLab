@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">imageSwitcher</string>
+    <string name="swap">SWAP</string>
+    <string name="todo">TODO</string>
+</resources>
